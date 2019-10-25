@@ -33,6 +33,7 @@ As a Sports Shop 2000 customer I want to</p>
 <ol>
   <li>Navigate to the <a href="https://play.nativescript.org/?template=play-ng&id=prFgzv&v=6" target="_blank">NativeScript Playground Project</a>
   </li>
+  <li><strong>Fork it</strong> by selecting "Fork" from the toolbar above the code editor</li>
   <li>Select "Preview" from the top right corner of the page</li>
   <li>Open Playground on your mobile device and scan the barcode that is displayed</li>
   <li>You should now see a login page, that is unusable (yet)</li>
