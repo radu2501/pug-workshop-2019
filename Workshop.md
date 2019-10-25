@@ -29,6 +29,20 @@ As a Sports Shop 2000 customer I want to</p>
 </li>
 </ul>
 <h2 id="hands-on-1---create-a-nativescript-app">Hands-on 1 - Create a NativeScript App</h2>
+<p><em><strong>Creating a NativeScript app that displays a list of items from a SmartComponent Library PASOE backend</strong></em></p>
+<ol>
+  <li>Navigate to the <a href="https://play.nativescript.org/?template=play-ng&id=prFgzv&v=6" target="_blank">NativeScript Playground Project</a>
+  </li>
+  <li>Select "Preview" from the top right corner of the page</li>
+  <li>Open Playground on your mobile device and scan the barcode that is displayed</li>
+  <li>You should now see a login page, that is unusable (yet)</li>
+  <li>In app/shared/config.ts, update the API_BASE_URL to the one displayed.</li>
+  <li>You should now be able to sign in and see an empty "Home" screen.</li>
+  <li>In app/home/home.component.html, add the ListView where indicated and bind it to the "items" property found in the corresponding TS file. More information on how to use the ListView can be found <a href="https://docs.nativescript.org/angular/ui/ng-components/listview" target="_blank">here</a>
+  </li>
+  <li>In app/home/home.component.ts, uncomment the block of code making the HTTP call.</li>
+  <li>Congratulations! You should now be able to see a list of sports items after you sign in.</li>
+</ol>
 <h2 id="hands-on-2---create-a-kinvey-app">Hands-on 2 - Create a Kinvey App</h2>
 <p><em><strong>Creating an app backend using the Kinvey Console</strong></em></p>
 <ol>
