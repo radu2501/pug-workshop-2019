@@ -31,7 +31,7 @@ As a Sports Shop 2000 customer I want to</p>
 <h2 id="hands-on-1---create-a-nativescript-app">Hands-on 1 - Create a NativeScript App</h2>
 <p><em><strong>Creating a NativeScript app that displays a list of items from a SmartComponent Library PASOE backend</strong></em></p>
 <ol>
-  <li>Navigate to the <a href="https://play.nativescript.org/?template=play-ng&id=prFgzv&v=6" target="_blank">NativeScript Playground Project</a>
+  <li>Navigate to the <a href="https://play.nativescript.org/?template=play-ng&id=prFgzv&v=7" target="_blank">NativeScript Playground Project</a>
   </li>
   <li><strong>Fork it</strong> by selecting "Fork" from the toolbar above the code editor</li>
   <li>Select "Preview" from the top right corner of the page</li>
