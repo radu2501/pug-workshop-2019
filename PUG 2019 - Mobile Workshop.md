@@ -58,14 +58,15 @@ _**Use the Kinvey SDK abstractions to access the Kinvey backend**_
 
 1.  Navigate to the  [NativeScript Playground Project](https://play.nativescript.org/?template=play-ng&id=AcHtxD&v=2)
 2.  **Fork it**  by selecting "Fork" from the toolbar above the code editor
-3.  Select "Preview" from the top right corner of the page
-4.  Open Playground on your mobile device and scan the barcode that is displayed
-5.  You should now see a login page, and after logging in a blank "Home" view
-6.  Add an OnInit method to the home.component.ts class to have an event handler for loading data when the view loads
-7. Add a Kinvey DataStore private member to the class pointing at the "items" collection
-8. Perform a fetch all by calling find() on the DataStore and subscribe to the results. 
-9. Assign the results the items class member 
-10. You should now see data from your Kinvey backend in the list 
+3.  Change backend.service.ts to point to your Kinvey Backend
+4.  Select "Preview" from the top right corner of the page
+5.  Open Playground on your mobile device and scan the barcode that is displayed
+6.  You should now see a login page, and after logging in a blank "Home" view
+7.  Add an OnInit method to the home.component.ts class to have an event handler for loading data when the view loads
+8. Add a Kinvey DataStore private member to the class pointing at the "items" collection
+9. Perform a fetch all by calling find() on the DataStore and subscribe to the results. 
+10. Assign the results the items class member 
+11. You should now see data from your Kinvey backend in the list 
 
 ## Hands-on 4 - Use an External Data Source
 ***Connect to an OpenEdge data source***
