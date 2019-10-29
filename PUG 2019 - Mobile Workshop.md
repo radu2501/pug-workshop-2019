@@ -26,7 +26,7 @@ As a Sports Shop 2000 customer I want to
 
 _**Creating a NativeScript app that displays a list of items from a SmartComponent Library PASOE backend**_
 
-1.  Navigate to the  [NativeScript Playground Project](https://play.nativescript.org/?template=play-ng&id=prFgzv&v=7)
+1.  Navigate to the  [NativeScript Playground Project](https://play.nativescript.org/?template=play-ng&id=prFgzv&v=8)
 2.  **Fork it**  by selecting "Fork" from the toolbar above the code editor
 3.  Select "Preview" from the top right corner of the page
 4.  Open Playground on your mobile device and scan the barcode that is displayed
